@@ -3,9 +3,9 @@
 ## Informasi
 
 Perusahaan: Perumda PDAM Kota Bogor
-Mentor: Pak anggi, Pak Ibnu, mas adit,
-Tim:
-Project:
+Mentor: Pak Obi, Pak anggi, Pak Ibnu, mas adit,
+Tim: -
+Project: -
 
 ## Teknologi
 
@@ -13,7 +13,8 @@ Project:
 - Grafana
 - React Native
 - Node Js
-- ?
+- Javascript
+- Redis
 
 ## Workflow
 
@@ -21,28 +22,35 @@ Project:
 
 ## Istilah Baru
 
+Istilah:
 ...
 
-## Pertanyaan
+Istilah:
+...
 
+Istilah:
+...
+
+Istilah:
 ...
 
 ## Task
 
-...
+\*\* day 1
 
-## Yang Sudah Dipelajari
+- perkenalan
+- terbiasa dengan lingkungan sekitar
 
-...
+\*\* day 2
 
-Istilah:
-...
+- Perkenalan
+- terbiasa dengan lingkungan sekitar
+- mempelajari library js untuk membuat diagram
+- mempelajari beberapa fundamental javascript
 
-Istilah:
-...
+\*\* day 3
 
-Istilah:
-...
-
-Istilah:
-...
+- Perkenalan
+- terbiasa dengan lingkungan sekitar
+- mempelajari library js untuk membuat diagram
+- mempelajari beberapa fundamental javascript
